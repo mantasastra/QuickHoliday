@@ -1,5 +1,13 @@
-# QuickHoliday
+# Quick Holiday
 
-A fictional 3 page responsive website developed using HTML and CSS.
+#### Developed using:
 
-You can access it through: http://www.quickholiday.online/
+| Front-End        |
+| ------------- |
+| HTML      |
+| CSS      |
+| Responsive Design |
+| JavaScript |
+***
+#### Website:
+[Quick Holiday](https://www.quickholiday.online/)
