@@ -1,13 +1,18 @@
 # Quick Holiday
+Fictional responsive travel agency website.
 
-#### Developed using:
+## Website:
+[www.quickholiday.online](https://www.quickholiday.online/)
 
-| Front-End        |
-| ------------- |
-| HTML      |
-| CSS      |
-| Responsive Design |
-| JavaScript |
-***
-#### Website:
-[Quick Holiday](https://www.quickholiday.online/)
+## Built With
+
+* HTML
+* CSS
+* [JavaScript](https://javascript.com/)
+
+## Author
+* **Mantas Astrauskas** - *Whole project* - [MAstrauskas](https://github.com/MAstrauskas)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
