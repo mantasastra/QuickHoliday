@@ -2,7 +2,7 @@
 Fictional responsive travel agency website.
 
 ## Website:
-[https://my-fitness-site.herokuapp.com/](https://my-fitness-site.herokuapp.com/)
+[https://www.quickholiday.online/](https://www.quickholiday.online/)
 
 ## Built With
 
